@@ -77,7 +77,7 @@ dir_location = input("Enter Directory path : ")
 contnets = os.listdir(dir_location)
 for i in contnets:
     print(i)
-    print("hello")
+    print("hello world")
 
 #problem 4 end
 
@@ -86,3 +86,4 @@ for i in contnets:
 #writing coments in above program
 #problem 5 end
 # hello updating and pushing 
+
